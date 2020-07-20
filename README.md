@@ -11,3 +11,6 @@
 请修改程序中的 6 - 7 行为自己的 天翼云盘的账号密码,创建定时执行即可
 函数名请修改为 cloud189.main    如下所示 
 ![image](https://github.com/FingerSword/Cloud189-Sign-In/blob/master/Tencent.png) 
+
+支持作者:
+![image](https://github.com/FingerSword/Cloud189-Sign-In/blob/master/Support.jpg)
