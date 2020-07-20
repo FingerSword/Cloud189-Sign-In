@@ -5,7 +5,7 @@
 # -Cloud.189.cn-Check-in-
 此代码来源于互联网,这里稍作修改,即可部署上云
 
-可以直接下载zip文件进行上传`(tyqd.zip)`,也可以将代码clone到本地自行修改,再上传
+可以直接下载zip文件进行上传 $\color{red}{tyqd.zip}$ ,也可以将代码clone到本地自行修改,再上传
 
 可应用于  AWS-Lambda服务,腾讯-SCF,阿里-Serverless.....
 此处提供文件和压缩包,请在创建函数的时候使用zip压缩包上传,因为其中涉及额外的库
